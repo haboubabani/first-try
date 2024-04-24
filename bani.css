@@ -1,0 +1,15 @@
+body{
+    background-image: url(Screenshot\ 2024-01-25\ 191157.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+div{
+    background-color:brown;
+    display:block;
+}
+samp{
+    background-color: aqua;
+    display: block;
+}
